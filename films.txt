@@ -1,0 +1,5 @@
+"Star Wars: Episode VI - Return of the Jedi",1983,"PG","Action/Adventure/Fantasy",131,8.3
+"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,"PG","Comedy",95,8.4
+"Bicycle Thieves",1948,"NOT RATED","Drama",89,8.3
+"The Godfather: Part II",1974,"R","Crime/Drama",202,9.0
+"Sunrise",1927,"NOT RATED","Drama/Romance",94,8.2
